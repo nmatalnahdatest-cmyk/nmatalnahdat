@@ -1,0 +1,6 @@
+{
+  "name": "Nmat Al Nahdat EMS",
+  "description": "Employee, Worker, Visa, Payment, and Office Management System for Nmat Al Nahdat in Saudi Arabia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
